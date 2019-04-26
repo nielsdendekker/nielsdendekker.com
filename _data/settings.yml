@@ -4,7 +4,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 200
   overlay_opacity: 0.7
 
@@ -155,7 +155,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
-  custom_styles: ""
-  header_js: ""
-  footer_js: ""
+  analytics_code: "<script async src='https://www.googletagmanager.com/gtag/js?id=UA-111301983-2'></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-20440416-28');</script>"
+  custom_styles: ''
+  header_js: ''
+  footer_js: ''
